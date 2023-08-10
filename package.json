@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-backend",
+  "version": "1.0.0",
+  "description": "Proyecto Back end ingenias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cMartinez13/ingenias-backend-proyecto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cMartinez13/ingenias-backend-proyecto/issues"
+  },
+  "homepage": "https://github.com/cMartinez13/ingenias-backend-proyecto#readme"
+}
